@@ -5,7 +5,7 @@ type: list
 
 
 #### LinkedIn
-For professional contact please send me a message via [LinkedIn](https://www.linkedin.com/in/cybersecuritymel/)
+Pour toute demande professionnelle, veuillez m'envoyer un message sur [LinkedIn](https://www.linkedin.com/in/cybersecuritymel/)
 
 
 <!-- #### Email
