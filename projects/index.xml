@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conférences on Hello world</title>
+    <title>Conferences on Hello world</title>
     <link>https://rahpsodee.github.io/projects/</link>
-    <description>Recent content in Conférences on Hello world</description>
+    <description>Recent content in Conferences on Hello world</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://rahpsodee.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
