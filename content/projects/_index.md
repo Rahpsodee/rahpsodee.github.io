@@ -1,5 +1,5 @@
 ---
-title: Conférences
+title: Conferences
 ---
-J'anime régulièrement des conférences sur différents sujets de la cybersécurité.
-Il me tient à coeur de vulgariser, de partager mes connaissances et de rendre la cybersécurité accessible à tout le monde.
+I regularly host conferences on different cybersecurity topics.
+It is important to me to popularize, share my knowledge and make cybersecurity accessible to everyone.
