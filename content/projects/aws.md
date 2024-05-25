@@ -1,6 +1,6 @@
 ---
-title: Avril 2023 - AWS SUMMIT Paris
-dateMonthYear: Avril 2023
+title: April 2023 - AWS Summit Paris
+dateMonthYear: April 2023
 description:  I co-hosted a conference on AWS WAF with Olivier Leplus during Paris AWS SUMMIT.
 type: page
 topic: project

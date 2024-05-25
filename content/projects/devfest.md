@@ -1,6 +1,6 @@
 ---
-title: Mai 2023 - DEVFEST Lille
-dateMonthYear: Mai 2023
+title: May 2023 - DevFest Lille
+dateMonthYear: May 2023
 description:  I was lucky enough to be selected for DevFest Lille 2023.
 type: page
 topic: project

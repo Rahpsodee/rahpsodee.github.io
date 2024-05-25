@@ -1,5 +1,5 @@
 ---
-title: Avril 2023 - MIXIT
+title: April 2023 - MIXIT
 dateMonthYear: April 2023
 description:  Winner of the Crafts Records Tremplin, my conference was selected for MIXIT.
 type: page
